@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ATC Demo</string>
+    <string name="server_url">https://api.giphy.com/v1/</string>
+</resources>
